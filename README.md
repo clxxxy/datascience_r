@@ -1,8 +1,8 @@
-# curso HavardX "Data Science: R Basics"
+# Curso HavardX "Data Science: R Basics"
 
-- ## 1) básico de R, funções e dataypes
+- ## 1) Básico de R, funções e dataypes
 
-  1.1. porque aprender R?
+  1.1. Porque aprender R?
    - gratuito e de código aberto
    - capacidade de salvar scripts
    - inúmeros recursos para aprendizagem
@@ -12,13 +12,13 @@
 
   1.3. [datatypes](https://github.com/clxxxy/datascience_r/blob/main/datatypes.R)
 
-- ## 2) vetores e ordenação
+- ## 2) Vetores e ordenação
 
   2.1. [vetores](https://github.com/clxxxy/datascience_r/blob/main/vectors.R)
 
   2.2. [ordenação](https://github.com/clxxxy/datascience_r/blob/main/sorting.R)
 
-- ## 3) indexação, data wrangling e plotagem gráfica
+- ## 3) Indexação, data wrangling e plotagem gráfica
 
   3.1. [indexação](https://github.com/clxxxy/datascience_r/blob/main/index.R)
 
@@ -30,6 +30,6 @@
 
   3.5. [data.table](https://github.com/clxxxy/datascience_r/blob/main/data.table.R)
 
-- ## 4) programação básica em R
+- ## 4) Programação básica em R
 
    4.1. [condicionais, funções e loops](https://github.com/clxxxy/datascience_r/blob/main/programming_basics.R)
